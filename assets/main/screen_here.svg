@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="327.822" height="39.566" viewBox="0 0 327.822 39.566">
+  <defs>
+    <filter id="glow-blue" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10" result="glow"/>
+      <feOffset dx="0" dy="0" dy2="4">
+        <animate attributeName="dy" dur="2s" values="0;8;0" repeatCount="indefinite"/>
+      </feOffset>
+      <feComposite in2="SourceAlpha" operator="in" />
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <path id="Path_1945" data-name="Path 1945" d="M-12822,7667.964s78.876-32.646,158.876-32.646,161.124,32.646,161.124,32.646" transform="translate(12825.92 -7632.317)" fill="none" stroke="#1900ff" stroke-linecap="round" stroke-width="6" filter="url(#glow-blue)"/>
+</svg>

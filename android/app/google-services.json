@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1032154346387",
+    "project_id": "voxliteapp",
+    "storage_bucket": "voxliteapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032154346387:android:e8f620147b894fdf136e66",
+        "android_client_info": {
+          "package_name": "com.example.voxliteadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032154346387-d6jqi15p31mr614ed8cnkh3k7i9jeeps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpraL2QsUjEzXcUoc_yJKyCcbK_vrw4tY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032154346387-99o28954jc3us9r06scpjbb5b5s3psgv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1032154346387-tmn59cf6fgvbluqsomj9e5skpj9803tg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.voxliteapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032154346387:android:78ea392014f86846136e66",
+        "android_client_info": {
+          "package_name": "com.example.voxliteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032154346387-5nnr7117u8b8sl8dr5tf5djti4ei05n9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.voxliteapp",
+            "certificate_hash": "b00a66e8f224595461ceae2754f477b6d7bc7218"
+          }
+        },
+        {
+          "client_id": "1032154346387-qjoiq4bquucqkjjl8m0p6ce1rfmq5cvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.voxliteapp",
+            "certificate_hash": "7ea4f58742804f8e5c9c63528e45d3af68ed9750"
+          }
+        },
+        {
+          "client_id": "1032154346387-d6jqi15p31mr614ed8cnkh3k7i9jeeps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpraL2QsUjEzXcUoc_yJKyCcbK_vrw4tY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032154346387-99o28954jc3us9r06scpjbb5b5s3psgv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1032154346387-tmn59cf6fgvbluqsomj9e5skpj9803tg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.voxliteapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
